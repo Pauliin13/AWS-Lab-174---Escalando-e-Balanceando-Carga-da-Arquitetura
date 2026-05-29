@@ -1,4 +1,4 @@
-# AWS-Lab-174---Escalando-e-Balanceando-Carga-da-Arquitetura
+# ---Escalando-e-Balanceando-Carga-da-Arquitetura
 Visão Geral
 Este projeto demonstra a implementação de uma arquitetura escalável e altamente disponível utilizando serviços da Amazon Web Services (AWS).
 
